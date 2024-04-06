@@ -15,7 +15,7 @@
 
 > A step towards better video recommendation
 >
-> PH
+
 
 #### Note:
 This page hosts:
