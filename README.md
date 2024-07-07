@@ -13,13 +13,11 @@
 
 * * *
 
-> A step towards better video recommendation
->
 
 
-#### Note:
-This page hosts:
-1. Objectives
+
+## Introduction
+
 
 * * *
 
