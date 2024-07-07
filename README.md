@@ -37,7 +37,7 @@ Alternative: Hash Maps with linked lists can be used for simpler implementation,
 
 Function: Analyzes past orders to identify trends and improve future service.
 
-Fenwick Trees: Also known as Binary Indexed Trees, provide efficient methods for cumulative frequency tables, helping in quickly analyzing historical order data.	[Fenwick Tree]() 
+Fenwick Trees: Also known as Binary Indexed Trees, provide efficient methods for cumulative frequency tables, helping in quickly analyzing historical order data.	[Fenwick Tree](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/blob/main/fenwick.cpp) 
 
 Alternative: Segment Trees can also be used for similar cumulative frequency calculations but might involve more complex implementation.
 
