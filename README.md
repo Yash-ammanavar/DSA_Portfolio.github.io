@@ -34,6 +34,10 @@ Trie Data Structure: A trie provides efficient searching and auto-completion of 
 Alternative: Hash Maps with linked lists can be used for simpler implementation, though they might not be as efficient for prefix-based searches.
 
 ### 9.	Historical Order Analysis
-	Function: Analyzes past orders to identify trends and improve future service.
-	Fenwick Trees: Also known as Binary Indexed Trees, provide efficient methods for cumulative frequency tables, helping in quickly analyzing historical order data.	 Alternative: Segment Trees can also be used for similar cumulative frequency calculations but might involve more complex implementation.
+
+Function: Analyzes past orders to identify trends and improve future service.
+
+Fenwick Trees: Also known as Binary Indexed Trees, provide efficient methods for cumulative frequency tables, helping in quickly analyzing historical order data.	 
+
+Alternative: Segment Trees can also be used for similar cumulative frequency calculations but might involve more complex implementation.
 
