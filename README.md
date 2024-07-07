@@ -21,6 +21,7 @@ In today's day and age, more and more people are relying on online food delivery
 ### Optimal Delivery Route
 
 Function: Determines the quickest delivery route for drivers to ensure timely deliveries, enhancing customer satisfaction.
+
 Dijkstra's Algorithm: Finds the shortest path between nodes in a graph, ensuring deliveries are made in the least amount of time possible.[djikstra](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/blob/main/djikstra.c)
 
 Alternative: A* Search Algorithm can be used if you have heuristic information about the distances, which can speed up the search process. [A*](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/blob/main/A*.c)
@@ -33,7 +34,7 @@ Trie Data Structure: A trie provides efficient searching and auto-completion of 
 
 Alternative: Hash Maps with linked lists can be used for simpler implementation, though they might not be as efficient for prefix-based searches.
 
-### 9.	Historical Order Analysis
+### Historical Order Analysis
 
 Function: Analyzes past orders to identify trends and improve future service.
 
