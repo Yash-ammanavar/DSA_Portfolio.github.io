@@ -17,6 +17,7 @@
 In today's day and age, more and more people are relying on online food delivery applications to order food. With this, comes new challenges with respect to storage, networking, delivery, etc. Using of DSA concepts, algorithms and data structures is very useful to tackle these challenges. 
 * * *
 ## Functionalities
+
 ### Optimal Delivery Route
 
 Function: Determines the quickest delivery route for drivers to ensure timely deliveries, enhancing customer satisfaction.
