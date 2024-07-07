@@ -25,6 +25,10 @@ Dijkstra's Algorithm: Finds the shortest path between nodes in a graph, ensuring
 
 Alternative: A* Search Algorithm can be used if you have heuristic information about the distances, which can speed up the search process. [A*](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/blob/main/A*.c)
 
+### Search for Restaurants
 
+Function: Allows users to quickly find restaurants by typing part of the restaurant name. This improves user experience by reducing the time and effort needed to locate a restaurant.
+Trie Data Structure: A trie provides efficient searching and auto-completion of restaurant names. It supports fast lookups and insertions, making it ideal for handling large dictionaries of restaurant names.
+Alternative: Hash Maps with linked lists can be used for simpler implementation, though they might not be as efficient for prefix-based searches.
 
 
