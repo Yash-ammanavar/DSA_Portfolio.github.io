@@ -22,6 +22,7 @@ In today's day and age, more and more people are relying on online food delivery
 
 Function: Determines the quickest delivery route for drivers to ensure timely deliveries, enhancing customer satisfaction.
 Dijkstra's Algorithm: Finds the shortest path between nodes in a graph, ensuring deliveries are made in the least amount of time possible.
+
 Alternative: A* Search Algorithm can be used if you have heuristic information about the distances, which can speed up the search process.
 
 
