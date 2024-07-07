@@ -42,3 +42,10 @@ Fenwick Trees: Also known as Binary Indexed Trees, provide efficient methods for
 
 Alternative: Segment Trees can also be used for similar cumulative frequency calculations but might involve more complex implementation.
 
+### 3.	Manage Restaurant Menus
+Function: Keeps restaurant menus organized and up-to-date, allowing users to easily browse and select items.
+
+Red-Black Trees: These self-balancing binary search trees maintain sorted order and ensure O(log n) time complexity for insertion, deletion, and lookup operations.
+
+Alternative: AVL Trees, another type of self-balancing tree, can be used for similar purposes but may involve more rotations during insertion and deletion.
+
