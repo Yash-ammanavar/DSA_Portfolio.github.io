@@ -69,4 +69,14 @@ Average-case: O(n log n)
 ### Order Processing System
 Function: An order processing system keeps track of incoming orders and manages their processing efficiently.
 
+Data Structure: Priority Queue (Heap) to maintain incoming orders
+
+Time complexity: O(log n) for insertions and deletions.
+
+Alternative Data Structure: Skip List, although the implementation could be challenging, it offers a time complexity of O(log n).
+
+Code: Skip List
+
+Source: GeeksforGeeks
+
 
