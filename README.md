@@ -129,6 +129,14 @@ Function: Real-time updates in food delivery applications involve delivering use
 
 [Dynamic hash](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/blob/main/dynamic_hash..cpp) tables allow for efficient access to updated data by dynamically resizing and rehashing as necessary. This ensures fast operations such as insertion, deletion, and search, all of which maintain an average time complexity of O(1).
 
+### Sending notifications to user
+Function: For effective Marketing and improving sales certain notifications are sent to the users on a particular date or time.
+
+Data Structures: Priority Queue (Min-Heap): To efficiently manage and retrieve the next notification to be sent. Stores notifications with the earliest date and time at the top.
+
+Time Complexity: O(log n) for insertion and extraction.
+
+Alternative: Hash Table.
 ### Time and Space Complexities
 
 | **Algorithm**                         | **Time Complexity**                            | **Space Complexity**                          |
