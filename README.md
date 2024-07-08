@@ -33,7 +33,7 @@ Alternative: A* Search Algorithm can be used if you have heuristic information a
 
 Function: Allows users to quickly find restaurants by typing part of the restaurant name. This improves user experience by reducing the time and effort needed to locate a restaurant.
 
-Trie Data Structure: A trie provides efficient searching and auto-completion of restaurant names. It supports fast lookups and insertions, making it ideal for handling large dictionaries of restaurant names.
+[Trie](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/blob/main/trie.cpp) Data Structure: A trie provides efficient searching and auto-completion of restaurant names. It supports fast lookups and insertions, making it ideal for handling large dictionaries of restaurant names.
 
 Time Complexity: O(n), where n is the length of the query.
 
