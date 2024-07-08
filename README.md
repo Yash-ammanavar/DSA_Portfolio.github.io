@@ -147,6 +147,14 @@ Function: Real-time updates in food delivery applications involve delivering use
 
 * * *
 ## References
+Anie Lusiani1,*Siti SamsiyahPurwaningsih2Euis Sartika31Department of Mechanical Engineering, Politeknik Negeri Bandung2,3Department of Commercial Administration, Politeknik Negeri Bandung,2023, DIJKSTRA ALGORITHM IN DETERMINING THE SHORTEST ROUTE FOR DELIVERY SERVICE BY J&T EXPRESS IN BANDUNG
+
+Dorigo, M., & Birattari, M. (2011). Ant colony optimization. In Encyclopedia of machine learning (pp. 36–39). Boston, MA: Springer.
+
+Shan Liu a, Hai Jiang a, Shuiping Chen b, Jing Ye b, Renqing He b, Zhizhao Sun b, 2020, Integrating Dijkstra’s algorithm into deep inverse reinforcement learning for food delivery route planning
+
+Red-Black Trees: An Essential Tool for Efficient Data Structures and Algorithms. Available: https://www.researchgate.net/publication/377471721_Title_Red-Black_Trees_An_Essential_Tool_for_Efficient_Data_Structures_and_Algorithms
+
 
 
 
