@@ -139,7 +139,7 @@ Data Structures: Priority Queue ([Min-Heap](https://github.com/Yash-ammanavar/DS
 
 Time Complexity: O(log n) for insertion and extraction.
 
-Alternative: Hash Table.
+Alternative: Hash Table- To quickly access user-specific notification settings and preferences..
 ### Time and Space Complexities
 
 | **Algorithm**                         | **Time Complexity**                            | **Space Complexity**                          |
