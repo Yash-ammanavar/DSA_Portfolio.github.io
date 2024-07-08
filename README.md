@@ -134,6 +134,10 @@ Source: GeeksforGeeks
 | **Skip List**                         | Insert/Delete/Search: O(log n)                 | O(n)                                          |
 | **Heap Data Structure**               | Insert/Delete/Extract-Min: O(log n)            | O(n)                                          |
 | **Ant Colony Optimization Algorithm** | O(n^3) per iteration                           | O(n^2)                                        |
+| **Binary Search Tree**                | Insert/Delete/Search: O(log n) avg, O(n) worst | O(n)                                          |
+
+* * *
+## References
 
 
 
