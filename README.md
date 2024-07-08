@@ -37,7 +37,7 @@ Trie Data Structure: A trie provides efficient searching and auto-completion of 
 
 Time Complexity: O(n), where n is the length of the query.
 
-Alternative: Hash Maps with linked lists can be used for simpler implementation, though they might not be as efficient for prefix-based searches.
+Alternative: [Segment]() trees.
 
 ### Historical Order Analysis
 
