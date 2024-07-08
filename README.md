@@ -82,4 +82,20 @@ Code: [Skip List](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/blob
 
 Source: GeeksforGeeks
 
+### Time and Space Complexities
+
+| **Algorithm**                         | **Time Complexity**                            | **Space Complexity**                          |
+|---------------------------------------|------------------------------------------------|-----------------------------------------------|
+| **Trie Data Structure**               | Insert/Search: O(m)                            | O(m) per node                                 |
+| **Hash Tables**                       | Insert/Delete/Search: O(1) avg                 | O(n)                                          |
+| **Fenwick Trees**                     | Build: O(n log n), Update/Query: O(log n)      | O(n)                                          |
+| **Segment Trees**                     | Build: O(n log n), Query/Update: O(log n)      | O(n)                                          |
+| **Red-Black Trees**                   | Insert/Delete/Search: O(log n)                 | O(n)                                          |
+| **Dijkstra's Algorithm**              | O((V + E) log V)                               | O(V^2)                                        |
+| **A* Search Algorithm**               | O(E)                                           | O(E)                                          |
+| **Skip List**                         | Insert/Delete/Search: O(log n)                 | O(n)                                          |
+| **Heap Data Structure**               | Insert/Delete/Extract-Min: O(log n)            | O(n)                                          |
+| **Ant Colony Optimization Algorithm** | O(n^3) per iteration                           | O(n^2)                                        |
+
+
 
