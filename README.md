@@ -52,7 +52,7 @@ Alternative: [Segment](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io
 ### Manage Restaurant Menus
 Function: Keeps restaurant menus organized and up-to-date, allowing users to easily browse and select items.
 
-Red-Black Trees: These self-balancing binary search trees maintain sorted order and ensure O(log n) time complexity for insertion, deletion, and lookup operations.
+[Red-Black](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/blob/main/red_black.cpp) Trees: These self-balancing binary search trees maintain sorted order and ensure O(log n) time complexity for insertion, deletion, and lookup operations.
 
 Alternative: AVL Trees, another type of self-balancing tree, can be used for similar purposes but may involve more rotations during insertion and deletion.
 
