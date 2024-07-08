@@ -49,6 +49,8 @@ In today's day and age, more and more people are relying on online food delivery
 
 <b>Third-Party Integrations:</b> Integrations with external services such as payment gateways, mapping services, and communication services for notifications.
 ## Functionalities
+![Screenshot (152)](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/assets/105197869/d4d97586-044d-4302-950a-3266886523cf)
+
 
 ### Optimal Delivery Route
 <img src="https://27089344.fs1.hubspotusercontent-eu1.net/hubfs/27089344/Imported_Blog_Media/10-best-apps-for-delivery-route-planning-roadwarrior-ui.png" alt="Operating systems" style="width: 50%; height: auto; margin-right: 50px; margin-left:50px;"/>
