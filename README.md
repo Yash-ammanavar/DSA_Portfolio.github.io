@@ -19,6 +19,26 @@ In today's day and age, more and more people are relying on online food delivery
 ## System Design
 ![Screenshot (150)](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/assets/105197869/e184e668-a474-455e-ae2c-0b003eb5c34d)
 
+Frontend Applications: User App, Restaurant App, Delivery Partner App
+
+Backend Services: API Gateway, User Service, Restaurant Service, Order Service, Delivery Service, Payment Service, Notification Service
+
+Databases: User Database, Restaurant Database, Order Database, Delivery Database, Payment Database
+
+Third-Party Integrations: Payment Gateway, Maps and GPS, SMS/Email Service
+
+### Services
+Frontend Applications: Interfaces for users, restaurants, and delivery partners to interact with the system.
+API Gateway: The entry point for all external requests, routing them to appropriate backend services.
+Backend Services: Handle business logic and processing.
+User Service: Manages user-related information.
+Restaurant Service: Manages restaurant-related information.
+Order Service: Manages order processing.
+Delivery Service: Manages delivery logistics.
+Payment Service: Manages payment processing.
+Notification Service: Manages notifications.
+Databases: Store persistent data for each service.
+Third-Party Integrations: Integrations with external services such as payment gateways, mapping services, and communication services for notifications.
 
 ## Functionalities
 
