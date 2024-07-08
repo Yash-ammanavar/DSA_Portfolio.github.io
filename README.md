@@ -32,23 +32,23 @@ Third-Party Integrations: Payment Gateway, Maps and GPS, SMS/Email Service
 
 <b>API Gateway:</b> The entry point for all external requests, routing them to appropriate backend services.
 
-Backend Services: Handle business logic and processing.
+<b>Backend Services:</b> Handle business logic and processing.
 
-User Service: Manages user-related information.
+<b>User Service:</b> Manages user-related information.
 
-Restaurant Service: Manages restaurant-related information.
+<b>Restaurant Service:</b> Manages restaurant-related information.
 
-Order Service: Manages order processing.
+<b>Order Service:</b> Manages order processing.
 
-Delivery Service: Manages delivery logistics.
+<b>Delivery Service:</b> Manages delivery logistics.
 
-Payment Service: Manages payment processing.
+<b>Payment Service:</b> Manages payment processing.
 
-Notification Service: Manages notifications.
+<b>Notification Service:</b> Manages notifications.
 
-Databases: Store persistent data for each service.
+<b>Databases:</b> Store persistent data for each service.
 
-Third-Party Integrations: Integrations with external services such as payment gateways, mapping services, and communication services for notifications.
+<b>Third-Party Integrations:</b> Integrations with external services such as payment gateways, mapping services, and communication services for notifications.
 
 ## Functionalities
 
