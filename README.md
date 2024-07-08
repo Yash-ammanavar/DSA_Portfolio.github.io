@@ -57,7 +57,8 @@ Function: Keeps restaurant menus organized and up-to-date, allowing users to eas
 Alternative: AVL Trees, another type of self-balancing tree, can be used for similar purposes but may involve more rotations during insertion and deletion.
 
 ### Sorting results based on filters
-<img src="(https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/assets/105197869/6fb1eaea-c636-47ee-b608-73d122ef0b31)" alt="sort" width="400" height="300">
+![WhatsApp Image 2024-07-08 at 14 45 07_0800e13a](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/assets/105197869/866806d1-6baf-4119-a33e-d30dc147350d)
+
 
 Function: The search results can be sorted based on filters like alphabetical  order/price/etc
 
