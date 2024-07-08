@@ -11,11 +11,10 @@
 <dd>KLE Technological University, Hubballi-31</dd>
 </dl>
 
-* * *
 ## Introduction
   <img src="https://play-lh.googleusercontent.com/kszbMUpxpU3OU1PAJPdWk68ti21PvRcBX4ynCSFfzDZ5JnuVlOgjh-YDBm-xBjrG-Tw" alt="Operating systems" style="width: 50%; height: auto; margin-right: 50px; margin-left:50px;"/>
 In today's day and age, more and more people are relying on online food delivery applications to order food. With this, comes new challenges with respect to storage, networking, delivery, etc. Using of DSA concepts, algorithms and data structures is very useful to tackle these challenges. 
-* * *
+
 ## System Design
 ![Screenshot (150)](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/assets/105197869/e184e668-a474-455e-ae2c-0b003eb5c34d)
 
@@ -49,7 +48,6 @@ In today's day and age, more and more people are relying on online food delivery
 <b>Databases:</b> Store persistent data for each service.
 
 <b>Third-Party Integrations:</b> Integrations with external services such as payment gateways, mapping services, and communication services for notifications.
-* * *
 ## Functionalities
 
 ### Optimal Delivery Route
@@ -115,7 +113,6 @@ Alternative Data Structure: Skip List, although the implementation could be chal
 Code: [Skip List](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/blob/main/skip.cpp)
 
 Source: GeeksforGeeks
-* * *
 ### Time and Space Complexities
 
 | **Algorithm**                         | **Time Complexity**                            | **Space Complexity**                          |
