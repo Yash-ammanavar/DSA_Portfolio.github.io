@@ -75,7 +75,7 @@ Time complexity: O(log n) for insertions and deletions.
 
 Alternative Data Structure: Skip List, although the implementation could be challenging, it offers a time complexity of O(log n).
 
-Code: Skip List
+Code: [Skip List](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/blob/main/skip.cpp)
 
 Source: GeeksforGeeks
 
