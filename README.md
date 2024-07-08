@@ -122,7 +122,11 @@ Data Structure: Binary Search Trees ([BST](https://github.com/Yash-ammanavar/DSA
 
 Alternative: Page Ranking
 
-Source: GeeksforGeeks
+### Real-time Updates
+Function: Real-time updates in food delivery applications involve delivering users the most current and accurate information regarding restaurants and their offerings, including prices, menu availability, and other dynamic details. This enhances user experience by ensuring they have up-to-date information, thereby enabling informed decisions and timely ordering.
+
+[Dynamic hash] tables allow for efficient access to updated data by dynamically resizing and rehashing as necessary. This ensures fast operations such as insertion, deletion, and search, all of which maintain an average time complexity of O(1).
+
 ### Time and Space Complexities
 
 | **Algorithm**                         | **Time Complexity**                            | **Space Complexity**                          |
