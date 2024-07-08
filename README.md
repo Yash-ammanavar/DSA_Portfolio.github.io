@@ -130,6 +130,8 @@ Function: Real-time updates in food delivery applications involve delivering use
 [Dynamic hash](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/blob/main/dynamic_hash..cpp) tables allow for efficient access to updated data by dynamically resizing and rehashing as necessary. This ensures fast operations such as insertion, deletion, and search, all of which maintain an average time complexity of O(1).
 
 ### Sending notifications to user
+![WhatsApp Image 2024-07-08 at 16 35 16_d3a0e189](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/assets/105197869/1c65a31c-6fcc-4c56-b79f-b6ec2a36d9ef)
+
 Function: For effective Marketing and improving sales certain notifications are sent to the users on a particular date or time.
 
 Data Structures: Priority Queue ([Min-Heap](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/blob/main/minheap.cpp)): To efficiently manage and retrieve the next notification to be sent. Stores notifications with the earliest date and time at the top.
