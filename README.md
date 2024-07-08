@@ -57,6 +57,8 @@ Function: Keeps restaurant menus organized and up-to-date, allowing users to eas
 Alternative: AVL Trees, another type of self-balancing tree, can be used for similar purposes but may involve more rotations during insertion and deletion.
 
 ### Sorting results based on filters
+<img src="(https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/assets/105197869/6fb1eaea-c636-47ee-b608-73d122ef0b31)" alt="sort" width="400" height="300">
+
 Function: The search results can be sorted based on filters like alphabetical  order/price/etc
 
 Quicksort: Quick Sort is a commonly used sorting algorithm that operates by choosing a 'pivot' element from an array. It then partitions the array into two sections: elements less than the pivot and elements greater than the pivot. These sub-arrays are then sorted recursively. This process continues until the entire array is sorted, efficiently organizing the elements.
