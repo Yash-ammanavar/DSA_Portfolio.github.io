@@ -28,6 +28,8 @@ Dijkstra's Algorithm: Finds the shortest path between nodes in a graph, ensuring
 Alternative: A* Search Algorithm can be used if you have heuristic information about the distances, which can speed up the search process. [A*](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/blob/main/A*.c)
 
 ### Search for Restaurants
+![WhatsApp Image 2024-07-08 at 10 37 51_458e8fde](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/assets/105197869/d556b31f-32c8-4fe9-b3ec-0ae5e5536b3d)
+
 
 Function: Allows users to quickly find restaurants by typing part of the restaurant name. This improves user experience by reducing the time and effort needed to locate a restaurant.
 
