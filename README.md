@@ -69,7 +69,7 @@ Function: Allows users to quickly find restaurants by typing part of the restaur
 
 Time Complexity: O(n), where n is the length of the query.
 
-Alternative: Hash Maps with linked lists can be used for simpler implementation, though they might not be as efficient for prefix-based searches and also not suitable for red black trees.
+Alternative: [Hash](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/blob/main/hash.cpp) Maps with linked lists can be used for simpler implementation, though they might not be as efficient for prefix-based searches and also not suitable for red black trees.
 
 ### Historical Order Analysis
 
