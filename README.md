@@ -115,7 +115,7 @@ Code: [Skip List](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/blob
 ### Ranking of results based on relevance
 Function: The search results should appear in a proper order based on relevance/rankings/etc.
 
-Data Structure: Binary Search Trees ([BST]): Useful for maintaining a sorted order of restaurants or menu items based on certain criteria like ratings or popularity. BSTs facilitate efficient insertion, deletion, and retrieval operations while keeping items in a sorted manner.
+Data Structure: Binary Search Trees ([BST](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/blob/main/bst.c)): Useful for maintaining a sorted order of restaurants or menu items based on certain criteria like ratings or popularity. BSTs facilitate efficient insertion, deletion, and retrieval operations while keeping items in a sorted manner.
 
 Alternative: Page Ranking
 
