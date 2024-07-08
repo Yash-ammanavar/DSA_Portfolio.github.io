@@ -28,7 +28,7 @@ Dijkstra's Algorithm: Finds the shortest path between nodes in a graph, ensuring
 Alternative: A* Search Algorithm can be used if you have heuristic information about the distances, which can speed up the search process. [A*](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/blob/main/A*.c)
 
 ### Search for Restaurants
-![WhatsApp Image 2024-07-08 at 10 37 51_458e8fde](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/assets/105197869/d556b31f-32c8-4fe9-b3ec-0ae5e5536b3d)
+<img src="https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/assets/105197869/d556b31f-32c8-4fe9-b3ec-0ae5e5536b3d" alt="Image" width="300" height="200">
 
 
 Function: Allows users to quickly find restaurants by typing part of the restaurant name. This improves user experience by reducing the time and effort needed to locate a restaurant.
@@ -55,4 +55,15 @@ Function: Keeps restaurant menus organized and up-to-date, allowing users to eas
 Red-Black Trees: These self-balancing binary search trees maintain sorted order and ensure O(log n) time complexity for insertion, deletion, and lookup operations.
 
 Alternative: AVL Trees, another type of self-balancing tree, can be used for similar purposes but may involve more rotations during insertion and deletion.
+
+### Sorting results based on filters
+Function: The search results can be sorted based on filters like alphabetical  order/price/etc
+
+Quicksort: Quick Sort is a commonly used sorting algorithm that operates by choosing a 'pivot' element from an array. It then partitions the array into two sections: elements less than the pivot and elements greater than the pivot. These sub-arrays are then sorted recursively. This process continues until the entire array is sorted, efficiently organizing the elements.
+
+Time Complexity:
+Worst-case: O(n^2)
+Best-case: O(n log n)
+Average-case: O(n log n)
+
 
