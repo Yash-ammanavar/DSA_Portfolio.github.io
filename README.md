@@ -47,7 +47,7 @@ Fenwick Trees: Also known as Binary Indexed Trees, provide efficient methods for
 
 Time Complexity: O(n log n) for building and for each query or update its O(log n).
 
-Alternative: [Segment]() trees.
+Alternative: [Segment](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/blob/main/segment.cpp) trees.
 
 ### Manage Restaurant Menus
 Function: Keeps restaurant menus organized and up-to-date, allowing users to easily browse and select items.
