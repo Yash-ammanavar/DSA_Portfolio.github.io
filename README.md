@@ -37,7 +37,7 @@ Trie Data Structure: A trie provides efficient searching and auto-completion of 
 
 Time Complexity: O(n), where n is the length of the query.
 
-Alternative: [Segment]() trees.
+Alternative: Hash Maps with linked lists can be used for simpler implementation, though they might not be as efficient for prefix-based searches.
 
 ### Historical Order Analysis
 
@@ -47,7 +47,7 @@ Fenwick Trees: Also known as Binary Indexed Trees, provide efficient methods for
 
 Time Complexity: O(n log n) for building and for each query or update its O(log n).
 
-Alternative: Stack- Useful for Last-In-First-Out (LIFO) operations, such as keeping track of the most recent orders.
+Alternative: Segment trees.
 
 ### Manage Restaurant Menus
 Function: Keeps restaurant menus organized and up-to-date, allowing users to easily browse and select items.
