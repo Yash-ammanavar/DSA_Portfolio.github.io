@@ -20,7 +20,7 @@ In today's day and age, more and more people are relying on online food delivery
 
 ### Optimal Delivery Route
 
-Function: Determines the quickest delivery route for drivers to ensure timely deliveries, enhancing customer satisfaction.
+<b>Function:</b> Determines the quickest delivery route for drivers to ensure timely deliveries, enhancing customer satisfaction.
 
 Dijkstra's Algorithm: Finds the shortest path between nodes in a graph, ensuring deliveries are made in the least amount of time possible.[djikstra](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/blob/main/djikstra.c)
 
