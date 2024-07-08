@@ -60,7 +60,7 @@ Dijkstra's Algorithm: Finds the shortest path between nodes in a graph, ensuring
 Alternatives: 
 A* Search Algorithm can be used if you have heuristic information about the distances, which can speed up the search process. [A*](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/blob/main/A*.c)
 
-Ant Colony Optimization Algorithm: Mimics the behavior of ants to find optimal paths and manage network traffic dynamically. [Ant Colony]
+[Ant Colony](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/blob/main/ant.cpp) Optimization Algorithm: Mimics the behavior of ants to find optimal paths and manage network traffic dynamically. 
 
 ### Search for Restaurants
 <img src="https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/assets/105197869/d556b31f-32c8-4fe9-b3ec-0ae5e5536b3d" alt="Image" width="600" height="400">
