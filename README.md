@@ -96,7 +96,7 @@ Alternative: AVL Trees, another type of self-balancing tree, can be used for sim
 
 Function: The search results can be sorted based on filters like alphabetical  order/price/etc
 
-Quicksort: Quick Sort is a commonly used sorting algorithm that operates by choosing a 'pivot' element from an array. It then partitions the array into two sections: elements less than the pivot and elements greater than the pivot. These sub-arrays are then sorted recursively. This process continues until the entire array is sorted, efficiently organizing the elements.
+[Quicksort](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/blob/main/quicksort.c): Quick Sort is a commonly used sorting algorithm that operates by choosing a 'pivot' element from an array. It then partitions the array into two sections: elements less than the pivot and elements greater than the pivot. These sub-arrays are then sorted recursively. This process continues until the entire array is sorted, efficiently organizing the elements.
 
 Time Complexity:
 Worst-case: O(n^2)
