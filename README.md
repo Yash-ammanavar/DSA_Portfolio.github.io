@@ -28,16 +28,26 @@ Databases: User Database, Restaurant Database, Order Database, Delivery Database
 Third-Party Integrations: Payment Gateway, Maps and GPS, SMS/Email Service
 
 ### Services
-Frontend Applications: Interfaces for users, restaurants, and delivery partners to interact with the system.
-API Gateway: The entry point for all external requests, routing them to appropriate backend services.
+<b>Frontend Applications:</b> Interfaces for users, restaurants, and delivery partners to interact with the system.
+
+<b>API Gateway:</b> The entry point for all external requests, routing them to appropriate backend services.
+
 Backend Services: Handle business logic and processing.
+
 User Service: Manages user-related information.
+
 Restaurant Service: Manages restaurant-related information.
+
 Order Service: Manages order processing.
+
 Delivery Service: Manages delivery logistics.
+
 Payment Service: Manages payment processing.
+
 Notification Service: Manages notifications.
+
 Databases: Store persistent data for each service.
+
 Third-Party Integrations: Integrations with external services such as payment gateways, mapping services, and communication services for notifications.
 
 ## Functionalities
