@@ -19,6 +19,7 @@ In today's day and age, more and more people are relying on online food delivery
 ## Functionalities
 
 ### Optimal Delivery Route
+<img src="https://27089344.fs1.hubspotusercontent-eu1.net/hubfs/27089344/Imported_Blog_Media/10-best-apps-for-delivery-route-planning-roadwarrior-ui.png" alt="Operating systems" style="width: 50%; height: auto; margin-right: 50px; margin-left:50px;"/>
 
 <b>Function:</b> Determines the quickest delivery route for drivers to ensure timely deliveries, enhancing customer satisfaction.
 
