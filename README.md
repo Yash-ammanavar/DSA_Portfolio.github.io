@@ -132,7 +132,7 @@ Function: Real-time updates in food delivery applications involve delivering use
 ### Sending notifications to user
 Function: For effective Marketing and improving sales certain notifications are sent to the users on a particular date or time.
 
-Data Structures: Priority Queue (Min-Heap): To efficiently manage and retrieve the next notification to be sent. Stores notifications with the earliest date and time at the top.
+Data Structures: Priority Queue ([Min-Heap](https://github.com/Yash-ammanavar/DSA_Portfolio.github.io/blob/main/minheap.cpp)): To efficiently manage and retrieve the next notification to be sent. Stores notifications with the earliest date and time at the top.
 
 Time Complexity: O(log n) for insertion and extraction.
 
